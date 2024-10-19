@@ -2,7 +2,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/ritam33)
 
-- [Datast](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset/data)
+- [Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset/data)
 
 
 ## About the Project

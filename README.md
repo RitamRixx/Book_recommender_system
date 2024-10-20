@@ -10,6 +10,7 @@
 The **Book Recommendation System** is a web-based application designed to suggest books based on user preferences. It uses collaborative filtering and popularity based recommendation algorithms to help users discover new books they may like. The project features a clean and modern interface, allowing users to submit their preferences and receive personalized book suggestions.
 
 ### Key Features
+- Collaborative Filtering & Popularity-based Algorithm: Recommends books based on user behavior, similar preferences, and overall popularity.
 - Dynamic book recommendations based on user input
 - Clean and responsive UI built with Bootstrap 5
 - Displays detailed information about recommended books, including titles, authors, and ratings
